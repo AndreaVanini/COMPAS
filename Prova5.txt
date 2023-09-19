@@ -605,9 +605,8 @@ Tasso di errore: 0.27
 
 
 
-Le persone afroamericano hanno il  91.26 % di probabilità di ottenere un punteggio più alto e di non commettere più reati rispetto agli imputati bianchi dopo 2 anni.
-Le persone afroamericano hanno il  108.80 % di probabilità di ottenere un punteggio più alto e di non commettere più reati rispetto agli imputati ispanici dopo 2 anni.
-I punteggi COMPAS classificano erroneamente i recidivi bianchi come a basso rischio con una frequenza del  70.49 % superiore rispetto ai recidivi afroamericani.
-I punteggi COMPAS classificano erroneamente i recidivi ispanici come a basso rischio con una frequenza del  98.64 % superiore rispetto ai recidivi afroamericani.
-
+Le persone afroamericano hanno il  235.69 % di probabilità di ottenere un punteggio più alto e di non commettere più reati rispetto agli imputati bianchi dopo 2 anni.
+Le persone afroamericano hanno il  166.63 % di probabilità di ottenere un punteggio più alto e di non commettere più reati rispetto agli imputati ispanici dopo 2 anni.
+I punteggi COMPAS classificano erroneamente i recidivi bianchi come a basso rischio con una frequenza del  68.15 % superiore rispetto ai recidivi afroamericani.
+I punteggi COMPAS classificano erroneamente i recidivi ispanici come a basso rischio con una frequenza del  84.85 % superiore rispetto ai recidivi afroamericani.
 
