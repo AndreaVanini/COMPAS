@@ -1,0 +1,514 @@
+Prova7
+All defendants
+                       	Predetto
+                    |  	Low 	High |
+-------------------------------------------------
+Reale Non recidivo  | 	2772 	290   |	3062
+Reale recidivo      | 	1398 	954  |	2352
+-------------------------------------------------
+                    | 	4170 	1244  |	5414
+True positive rate: 40.56
+True negative rate: 90.53
+False positive rate: 9.47
+False negative rate: 59.44
+Specificity: 0.91
+Sensitivity / Recall: 0.41
+Prevalence: 0.43
+PPV / Precision: 0.77
+NPV: 0.66
+LR+: 4.28
+LR-: 0.66
+Accuracy: 0.66
+F score: 0.53
+Tasso di errore: 0.31
+                       	Predetto
+                    |  	Low 	Medium |
+-------------------------------------------------
+Reale Non recidivo  | 	2772 	640   |	3412
+Reale recidivo      | 	1398 	1069  |	2467
+-------------------------------------------------
+                    | 	4170 	1709  |	5879
+True positive rate: 43.33
+True negative rate: 81.24
+False positive rate: 18.76
+False negative rate: 56.67
+Specificity: 0.81
+Sensitivity / Recall: 0.43
+Prevalence: 0.42
+PPV / Precision: 0.63
+NPV: 0.66
+LR+: 2.31
+LR-: 0.70
+Accuracy: 0.70
+F score: 0.51
+Tasso di errore: 0.35
+                       	Predetto
+                    |  	Medium 	High |
+-------------------------------------------------
+Reale Non recidivo  | 	640 	290   |	930
+Reale recidivo      | 	1069 	954  |	2023
+-------------------------------------------------
+                    | 	1709 	1244  |	2953
+True positive rate: 47.16
+True negative rate: 68.82
+False positive rate: 31.18
+False negative rate: 52.84
+Specificity: 0.69
+Sensitivity / Recall: 0.47
+Prevalence: 0.69
+PPV / Precision: 0.77
+NPV: 0.37
+LR+: 1.51
+LR-: 0.77
+Accuracy: 0.77
+F score: 0.58
+Tasso di errore: 0.46
+                       	Predetto
+                    |  	1...4 	7...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	1307 	171   |	1478
+Reale recidivo      | 	417 	334  |	751
+-------------------------------------------------
+                    | 	1724 	505  |	2229
+True positive rate: 44.47
+True negative rate: 88.43
+False positive rate: 11.57
+False negative rate: 55.53
+Specificity: 0.88
+Sensitivity / Recall: 0.44
+Prevalence: 0.34
+PPV / Precision: 0.66
+NPV: 0.76
+LR+: 3.84
+LR-: 0.63
+Accuracy: 0.63
+F score: 0.53
+Tasso di errore: 0.26
+                       	Predetto
+                    |  	1...5 	6...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	1307 	194   |	1501
+Reale recidivo      | 	417 	371  |	788
+-------------------------------------------------
+                    | 	1724 	565  |	2289
+True positive rate: 47.08
+True negative rate: 87.08
+False positive rate: 12.92
+False negative rate: 52.92
+Specificity: 0.87
+Sensitivity / Recall: 0.47
+Prevalence: 0.34
+PPV / Precision: 0.66
+NPV: 0.76
+LR+: 3.64
+LR-: 0.61
+Accuracy: 0.61
+F score: 0.55
+Tasso di errore: 0.27
+                       	Predetto
+                    |  	1...3 	8...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	1307 	111   |	1418
+Reale recidivo      | 	417 	348  |	765
+-------------------------------------------------
+                    | 	1724 	459  |	2183
+True positive rate: 45.49
+True negative rate: 92.17
+False positive rate: 7.83
+False negative rate: 54.51
+Specificity: 0.92
+Sensitivity / Recall: 0.45
+Prevalence: 0.35
+PPV / Precision: 0.76
+NPV: 0.76
+LR+: 5.81
+LR-: 0.59
+Accuracy: 0.59
+F score: 0.57
+Tasso di errore: 0.24
+Black defendants
+                       	Predetto
+                    |  	Low 	High |
+-------------------------------------------------
+Reale Non recidivo  | 	591 	149   |	740
+Reale recidivo      | 	382 	592  |	974
+-------------------------------------------------
+                    | 	973 	741  |	1714
+True positive rate: 60.78
+True negative rate: 79.86
+False positive rate: 20.14
+False negative rate: 39.22
+Specificity: 0.80
+Sensitivity / Recall: 0.61
+Prevalence: 0.57
+PPV / Precision: 0.80
+NPV: 0.61
+LR+: 3.02
+LR-: 0.49
+Accuracy: 0.49
+F score: 0.69
+Tasso di errore: 0.31
+                       	Predetto
+                    |  	Low 	Medium |
+-------------------------------------------------
+Reale Non recidivo  | 	591 	267   |	858
+Reale recidivo      | 	382 	463  |	845
+-------------------------------------------------
+                    | 	973 	730  |	1703
+True positive rate: 54.79
+True negative rate: 68.88
+False positive rate: 31.12
+False negative rate: 45.21
+Specificity: 0.69
+Sensitivity / Recall: 0.55
+Prevalence: 0.50
+PPV / Precision: 0.63
+NPV: 0.61
+LR+: 1.76
+LR-: 0.66
+Accuracy: 0.66
+F score: 0.59
+Tasso di errore: 0.38
+                       	Predetto
+                    |  	Medium 	High |
+-------------------------------------------------
+Reale Non recidivo  | 	267 	149   |	416
+Reale recidivo      | 	463 	592  |	1055
+-------------------------------------------------
+                    | 	730 	741  |	1471
+True positive rate: 56.11
+True negative rate: 64.18
+False positive rate: 35.82
+False negative rate: 43.89
+Specificity: 0.64
+Sensitivity / Recall: 0.56
+Prevalence: 0.72
+PPV / Precision: 0.80
+NPV: 0.37
+LR+: 1.57
+LR-: 0.68
+Accuracy: 0.68
+F score: 0.66
+Tasso di errore: 0.42
+                       	Predetto
+                    |  	1...4 	7...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	210 	83   |	293
+Reale recidivo      | 	75 	171  |	246
+-------------------------------------------------
+                    | 	285 	254  |	539
+True positive rate: 69.51
+True negative rate: 71.67
+False positive rate: 28.33
+False negative rate: 30.49
+Specificity: 0.72
+Sensitivity / Recall: 0.70
+Prevalence: 0.46
+PPV / Precision: 0.67
+NPV: 0.74
+LR+: 2.45
+LR-: 0.43
+Accuracy: 0.43
+F score: 0.68
+Tasso di errore: 0.29
+                       	Predetto
+                    |  	1...5 	6...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	210 	83   |	293
+Reale recidivo      | 	75 	160  |	235
+-------------------------------------------------
+                    | 	285 	243  |	528
+True positive rate: 68.09
+True negative rate: 71.67
+False positive rate: 28.33
+False negative rate: 31.91
+Specificity: 0.72
+Sensitivity / Recall: 0.68
+Prevalence: 0.45
+PPV / Precision: 0.66
+NPV: 0.74
+LR+: 2.40
+LR-: 0.45
+Accuracy: 0.45
+F score: 0.67
+Tasso di errore: 0.30
+                       	Predetto
+                    |  	1...3 	8...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	210 	51   |	261
+Reale recidivo      | 	75 	191  |	266
+-------------------------------------------------
+                    | 	285 	242  |	527
+True positive rate: 71.80
+True negative rate: 80.46
+False positive rate: 19.54
+False negative rate: 28.20
+Specificity: 0.80
+Sensitivity / Recall: 0.72
+Prevalence: 0.50
+PPV / Precision: 0.79
+NPV: 0.74
+LR+: 3.67
+LR-: 0.35
+Accuracy: 0.35
+F score: 0.75
+Tasso di errore: 0.24
+
+White defendants
+                       	Predetto
+                    |  	Low 	High |
+-------------------------------------------------
+Reale Non recidivo  | 	1046 	53   |	1099
+Reale recidivo      | 	500 	206  |	706
+-------------------------------------------------
+                    | 	1546 	259  |	1805
+True positive rate: 29.18
+True negative rate: 95.18
+False positive rate: 4.82
+False negative rate: 70.82
+Specificity: 0.95
+Sensitivity / Recall: 0.29
+Prevalence: 0.39
+PPV / Precision: 0.80
+NPV: 0.68
+LR+: 6.05
+LR-: 0.74
+Accuracy: 0.74
+F score: 0.43
+Tasso di errore: 0.31
+                       	Predetto
+                    |  	Low 	Medium |
+-------------------------------------------------
+Reale Non recidivo  | 	1046 	206   |	1252
+Reale recidivo      | 	500 	342  |	842
+-------------------------------------------------
+                    | 	1546 	548  |	2094
+True positive rate: 40.62
+True negative rate: 83.55
+False positive rate: 16.45
+False negative rate: 59.38
+Specificity: 0.84
+Sensitivity / Recall: 0.41
+Prevalence: 0.40
+PPV / Precision: 0.62
+NPV: 0.68
+LR+: 2.47
+LR-: 0.71
+Accuracy: 0.71
+F score: 0.49
+Tasso di errore: 0.34
+                       	Predetto
+                    |  	Medium 	High |
+-------------------------------------------------
+Reale Non recidivo  | 	206 	53   |	259
+Reale recidivo      | 	342 	206  |	548
+-------------------------------------------------
+                    | 	548 	259  |	807
+True positive rate: 37.59
+True negative rate: 79.54
+False positive rate: 20.46
+False negative rate: 62.41
+Specificity: 0.80
+Sensitivity / Recall: 0.38
+Prevalence: 0.68
+PPV / Precision: 0.80
+NPV: 0.38
+LR+: 1.84
+LR-: 0.78
+Accuracy: 0.78
+F score: 0.51
+Tasso di errore: 0.49
+                       	Predetto
+                    |  	1...4 	7...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	546 	44   |	590
+Reale recidivo      | 	150 	99  |	249
+-------------------------------------------------
+                    | 	696 	143  |	839
+True positive rate: 39.76
+True negative rate: 92.54
+False positive rate: 7.46
+False negative rate: 60.24
+Specificity: 0.93
+Sensitivity / Recall: 0.40
+Prevalence: 0.30
+PPV / Precision: 0.69
+NPV: 0.78
+LR+: 5.33
+LR-: 0.65
+Accuracy: 0.65
+F score: 0.51
+Tasso di errore: 0.23
+                       	Predetto
+                    |  	1...5 	6...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	546 	63   |	609
+Reale recidivo      | 	150 	127  |	277
+-------------------------------------------------
+                    | 	696 	190  |	886
+True positive rate: 45.85
+True negative rate: 89.66
+False positive rate: 10.34
+False negative rate: 54.15
+Specificity: 0.90
+Sensitivity / Recall: 0.46
+Prevalence: 0.31
+PPV / Precision: 0.67
+NPV: 0.78
+LR+: 4.43
+LR-: 0.60
+Accuracy: 0.60
+F score: 0.54
+Tasso di errore: 0.24
+                       	Predetto
+                    |  	1...3 	8...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	546 	20   |	566
+Reale recidivo      | 	150 	101  |	251
+-------------------------------------------------
+                    | 	696 	121  |	817
+True positive rate: 40.24
+True negative rate: 96.47
+False positive rate: 3.53
+False negative rate: 59.76
+Specificity: 0.96
+Sensitivity / Recall: 0.40
+Prevalence: 0.31
+PPV / Precision: 0.83
+NPV: 0.78
+LR+: 11.39
+LR-: 0.62
+Accuracy: 0.62
+F score: 0.54
+Tasso di errore: 0.21
+
+Hispanic defendants
+                       	Predetto
+                    |  	Low 	High |
+-------------------------------------------------
+Reale Non recidivo  | 	1135 	88   |	1223
+Reale recidivo      | 	516 	156  |	672
+-------------------------------------------------
+                    | 	1651 	244  |	1895
+True positive rate: 23.21
+True negative rate: 92.80
+False positive rate: 7.20
+False negative rate: 76.79
+Specificity: 0.93
+Sensitivity / Recall: 0.23
+Prevalence: 0.35
+PPV / Precision: 0.64
+NPV: 0.69
+LR+: 3.23
+LR-: 0.83
+Accuracy: 0.83
+F score: 0.34
+Tasso di errore: 0.32
+                       	Predetto
+                    |  	Low 	Medium |
+-------------------------------------------------
+Reale Non recidivo  | 	1135 	167   |	1302
+Reale recidivo      | 	516 	264  |	780
+-------------------------------------------------
+                    | 	1651 	431  |	2082
+True positive rate: 33.85
+True negative rate: 87.17
+False positive rate: 12.83
+False negative rate: 66.15
+Specificity: 0.87
+Sensitivity / Recall: 0.34
+Prevalence: 0.37
+PPV / Precision: 0.61
+NPV: 0.69
+LR+: 2.64
+LR-: 0.76
+Accuracy: 0.76
+F score: 0.44
+Tasso di errore: 0.33
+                       	Predetto
+                    |  	Medium 	High |
+-------------------------------------------------
+Reale Non recidivo  | 	167 	88   |	255
+Reale recidivo      | 	264 	156  |	420
+-------------------------------------------------
+                    | 	431 	244  |	675
+True positive rate: 37.14
+True negative rate: 65.49
+False positive rate: 34.51
+False negative rate: 62.86
+Specificity: 0.65
+Sensitivity / Recall: 0.37
+Prevalence: 0.62
+PPV / Precision: 0.64
+NPV: 0.39
+LR+: 1.08
+LR-: 0.96
+Accuracy: 0.96
+F score: 0.47
+Tasso di errore: 0.52
+                       	Predetto
+                    |  	1...4 	7...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	551 	44   |	595
+Reale recidivo      | 	192 	64  |	256
+-------------------------------------------------
+                    | 	743 	108  |	851
+True positive rate: 25.00
+True negative rate: 92.61
+False positive rate: 7.39
+False negative rate: 75.00
+Specificity: 0.93
+Sensitivity / Recall: 0.25
+Prevalence: 0.30
+PPV / Precision: 0.59
+NPV: 0.74
+LR+: 3.38
+LR-: 0.81
+Accuracy: 0.81
+F score: 0.35
+Tasso di errore: 0.28
+                       	Predetto
+                    |  	1...5 	6...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	551 	48   |	599
+Reale recidivo      | 	192 	84  |	276
+-------------------------------------------------
+                    | 	743 	132  |	875
+True positive rate: 30.43
+True negative rate: 91.99
+False positive rate: 8.01
+False negative rate: 69.57
+Specificity: 0.92
+Sensitivity / Recall: 0.30
+Prevalence: 0.32
+PPV / Precision: 0.64
+NPV: 0.74
+LR+: 3.80
+LR-: 0.76
+Accuracy: 0.76
+F score: 0.41
+Tasso di errore: 0.27
+                       	Predetto
+                    |  	1...3 	8...10 |
+-------------------------------------------------
+Reale Non recidivo  | 	551 	40   |	591
+Reale recidivo      | 	192 	56  |	248
+-------------------------------------------------
+                    | 	743 	96  |	839
+True positive rate: 22.58
+True negative rate: 93.23
+False positive rate: 6.77
+False negative rate: 77.42
+Specificity: 0.93
+Sensitivity / Recall: 0.23
+Prevalence: 0.30
+PPV / Precision: 0.58
+NPV: 0.74
+LR+: 3.34
+LR-: 0.83
+Accuracy: 0.83
+F score: 0.33
+Tasso di errore: 0.28
+
+
+Process finished with exit code 0
