@@ -3,12 +3,13 @@ Matrici di confusione
 
 All defendants
                        	Predetto
-                    |  	Low 	High |
+                    |  	Low 	High  |
 -------------------------------------------------
-Reale Non recidivo  | 	2681 	402   |	3083
+Reale Non recidivo  | 	2681 	 402  |	3083
 Reale recidivo      | 	1216 	1001  |	2217
 -------------------------------------------------
                     | 	3897 	1403  |	5300
+
 True positive rate: 45.15
 True negative rate: 86.96
 False positive rate: 13.04
@@ -23,13 +24,16 @@ LR-: 0.63
 Accuracy: 0.63
 F score: 0.55
 Tasso di errore: 0.31
+
+
                        	Predetto
                     |  	Low 	Medium |
 -------------------------------------------------
-Reale Non recidivo  | 	2681 	880   |	3561
-Reale recidivo      | 	1216 	1034  |	2250
+Reale Non recidivo  | 	2681 	 880   |  3561
+Reale recidivo      | 	1216 	1034   |  2250
 -------------------------------------------------
-                    | 	3897 	1914  |	5811
+                    | 	3897 	1914   |  5811
+
 True positive rate: 45.96
 True negative rate: 75.29
 False positive rate: 24.71
@@ -44,13 +48,16 @@ LR-: 0.72
 Accuracy: 0.72
 F score: 0.50
 Tasso di errore: 0.36
+
+
                        	Predetto
-                    |  	Medium 	High |
+                    |  	Medium 	High  |
 -------------------------------------------------
-Reale Non recidivo  | 	880 	402   |	1282
+Reale Non recidivo  | 	 880 	 402  |	1282
 Reale recidivo      | 	1034 	1001  |	2035
 -------------------------------------------------
                     | 	1914 	1403  |	3317
+
 True positive rate: 49.19
 True negative rate: 68.64
 False positive rate: 31.36
@@ -65,13 +72,17 @@ LR-: 0.74
 Accuracy: 0.74
 F score: 0.58
 Tasso di errore: 0.43
+
+
+
                        	Predetto
                     |  	1...4 	7...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	1132 	242   |	1374
-Reale recidivo      | 	308 	350  |	658
+Reale Non recidivo  | 	1132 	 242   |   1374
+Reale recidivo      | 	 308 	 350   |    658
 -------------------------------------------------
-                    | 	1440 	592  |	2032
+                    | 	1440 	 592   |   2032
+
 True positive rate: 53.19
 True negative rate: 82.39
 False positive rate: 17.61
@@ -86,13 +97,17 @@ LR-: 0.57
 Accuracy: 0.57
 F score: 0.56
 Tasso di errore: 0.27
+
+
+
                        	Predetto
                     |  	1...5 	6...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	1132 	283   |	1415
-Reale recidivo      | 	308 	358  |	666
+Reale Non recidivo  | 	1132 	 283   | 1415
+Reale recidivo      | 	 308 	 358   |  666
 -------------------------------------------------
-                    | 	1440 	641  |	2081
+                    | 	1440 	 641   | 2081
+
 True positive rate: 53.75
 True negative rate: 80.00
 False positive rate: 20.00
@@ -107,13 +122,17 @@ LR-: 0.58
 Accuracy: 0.58
 F score: 0.55
 Tasso di errore: 0.28
+
+
+
                        	Predetto
                     |  	1...3 	8...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	1132 	162   |	1294
-Reale recidivo      | 	308 	350  |	658
+Reale Non recidivo  | 	1132 	 162   | 1294
+Reale recidivo      | 	 308 	 350   |  658
 -------------------------------------------------
-                    | 	1440 	512  |	1952
+                    | 	1440 	 512   | 1952
+
 True positive rate: 53.19
 True negative rate: 87.48
 False positive rate: 12.52
@@ -129,14 +148,21 @@ Accuracy: 0.54
 F score: 0.60
 Tasso di errore: 0.24
 
+
+
+
+
+
+
 Black defendants
                        	Predetto
                     |  	Low 	High |
 -------------------------------------------------
-Reale Non recidivo  | 	990 	284   |	1274
-Reale recidivo      | 	532 	741  |	1273
+Reale Non recidivo  | 	990 	 284 |	1274
+Reale recidivo      | 	532 	 741 |	1273
 -------------------------------------------------
-                    | 	1522 	1025  |	2547
+                    |  1522 	1025 |	2547
+
 True positive rate: 58.21
 True negative rate: 77.71
 False positive rate: 22.29
@@ -151,13 +177,17 @@ LR-: 0.54
 Accuracy: 0.54
 F score: 0.64
 Tasso di errore: 0.32
+
+
+
                        	Predetto
                     |  	Low 	Medium |
 -------------------------------------------------
-Reale Non recidivo  | 	990 	521   |	1511
-Reale recidivo      | 	532 	628  |	1160
+Reale Non recidivo  | 	990 	 521   |  1511
+Reale recidivo      | 	532 	 628   |  1160
 -------------------------------------------------
-                    | 	1522 	1149  |	2671
+                    |  1522 	1149   |  2671
+
 True positive rate: 54.14
 True negative rate: 65.52
 False positive rate: 34.48
@@ -172,13 +202,16 @@ LR-: 0.70
 Accuracy: 0.70
 F score: 0.54
 Tasso di errore: 0.39
+
+
                        	Predetto
-                    |  	Medium 	High |
+                    |  	Medium 	High  |
 -------------------------------------------------
-Reale Non recidivo  | 	521 	284   |	805
-Reale recidivo      | 	628 	741  |	1369
+Reale Non recidivo  | 	521 	 284  |	 805
+Reale recidivo      | 	628 	 741  |	1369
 -------------------------------------------------
-                    | 	1149 	1025  |	2174
+                    |  1149 	1025  |	2174
+
 True positive rate: 54.13
 True negative rate: 64.72
 False positive rate: 35.28
@@ -193,13 +226,17 @@ LR-: 0.71
 Accuracy: 0.71
 F score: 0.62
 Tasso di errore: 0.42
+
+
+
                        	Predetto
                     |  	1...4 	7...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	307 	163   |	470
-Reale recidivo      | 	91 	237  |	328
+Reale Non recidivo  | 	307 	 163   |  470
+Reale recidivo      | 	 91 	 237   |  328
 -------------------------------------------------
-                    | 	398 	400  |	798
+                    | 	398 	 400   |  798
+
 True positive rate: 72.26
 True negative rate: 65.32
 False positive rate: 34.68
@@ -214,13 +251,17 @@ LR-: 0.42
 Accuracy: 0.42
 F score: 0.65
 Tasso di errore: 0.32
+
+
+
                        	Predetto
                     |  	1...5 	6...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	307 	169   |	476
-Reale recidivo      | 	91 	215  |	306
+Reale Non recidivo  | 	307 	 169   |  476
+Reale recidivo      | 	 91 	 215   |  306
 -------------------------------------------------
-                    | 	398 	384  |	782
+                    | 	398 	 384   |  782
+
 True positive rate: 70.26
 True negative rate: 64.50
 False positive rate: 35.50
@@ -235,13 +276,18 @@ LR-: 0.46
 Accuracy: 0.46
 F score: 0.62
 Tasso di errore: 0.33
+
+
+
+
                        	Predetto
                     |  	1...3 	8...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	307 	114   |	421
-Reale recidivo      | 	91 	245  |	336
+Reale Non recidivo  | 	307 	 114   | 421
+Reale recidivo      | 	 91 	 245   | 336
 -------------------------------------------------
-                    | 	398 	359  |	757
+                    | 	398 	 359   | 757
+
 True positive rate: 72.92
 True negative rate: 72.92
 False positive rate: 27.08
@@ -257,14 +303,18 @@ Accuracy: 0.37
 F score: 0.71
 Tasso di errore: 0.27
 
+
+
+
 White defendants
                        	Predetto
                     |  	Low 	High |
 -------------------------------------------------
-Reale Non recidivo  | 	1139 	81   |	1220
-Reale recidivo      | 	461 	195  |	656
+Reale Non recidivo  | 	1139 	 81  |	1220
+Reale recidivo      | 	 461 	195  |	 656
 -------------------------------------------------
                     | 	1600 	276  |	1876
+
 True positive rate: 29.73
 True negative rate: 93.36
 False positive rate: 6.64
@@ -279,13 +329,17 @@ LR-: 0.75
 Accuracy: 0.75
 F score: 0.42
 Tasso di errore: 0.29
+
+
+
                        	Predetto
                     |  	Low 	Medium |
 -------------------------------------------------
-Reale Non recidivo  | 	1139 	268   |	1407
-Reale recidivo      | 	461 	310  |	771
+Reale Non recidivo  | 	1139 	268    |  1407
+Reale recidivo      | 	 461 	310    |   771
 -------------------------------------------------
-                    | 	1600 	578  |	2178
+                    | 	1600 	578    |  2178
+
 True positive rate: 40.21
 True negative rate: 80.95
 False positive rate: 19.05
@@ -300,13 +354,17 @@ LR-: 0.74
 Accuracy: 0.74
 F score: 0.46
 Tasso di errore: 0.33
+
+
+
                        	Predetto
                     |  	Medium 	High |
 -------------------------------------------------
-Reale Non recidivo  | 	268 	81   |	349
+Reale Non recidivo  | 	268 	 81  |	349
 Reale recidivo      | 	310 	195  |	505
 -------------------------------------------------
                     | 	578 	276  |	854
+
 True positive rate: 38.61
 True negative rate: 76.79
 False positive rate: 23.21
@@ -321,13 +379,17 @@ LR-: 0.80
 Accuracy: 0.80
 F score: 0.50
 Tasso di errore: 0.46
+
+
+
                        	Predetto
                     |  	1...4 	7...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	539 	55   |	594
-Reale recidivo      | 	142 	88  |	230
+Reale Non recidivo  | 	539 	 55    |  594
+Reale recidivo      | 	142 	 88    |  230
 -------------------------------------------------
-                    | 	681 	143  |	824
+                    | 	681 	143    |  824
+
 True positive rate: 38.26
 True negative rate: 90.74
 False positive rate: 9.26
@@ -342,13 +404,17 @@ LR-: 0.68
 Accuracy: 0.68
 F score: 0.47
 Tasso di errore: 0.24
+
+
+
                        	Predetto
                     |  	1...5 	6...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	539 	83   |	622
-Reale recidivo      | 	142 	111  |	253
+Reale Non recidivo  | 	539 	 83    |  622
+Reale recidivo      | 	142 	111    |  253
 -------------------------------------------------
-                    | 	681 	194  |	875
+                    | 	681 	194    |  875
+
 True positive rate: 43.87
 True negative rate: 86.66
 False positive rate: 13.34
@@ -363,13 +429,17 @@ LR-: 0.65
 Accuracy: 0.65
 F score: 0.50
 Tasso di errore: 0.26
+
+
+
                        	Predetto
                     |  	1...3 	8...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	539 	32   |	571
-Reale recidivo      | 	142 	82  |	224
+Reale Non recidivo  | 	539 	 32    |  571
+Reale recidivo      | 	142 	 82    |  224
 -------------------------------------------------
-                    | 	681 	114  |	795
+                    | 	681 	114    |  795
+
 True positive rate: 36.61
 True negative rate: 94.40
 False positive rate: 5.60
@@ -385,14 +455,17 @@ Accuracy: 0.67
 F score: 0.49
 Tasso di errore: 0.22
 
+
+
 Hispanic defendants
                        	Predetto
                     |  	Low 	High |
 -------------------------------------------------
 Reale Non recidivo  | 	318 	29   |	347
-Reale recidivo      | 	129 	38  |	167
+Reale recidivo      | 	129 	38   |	167
 -------------------------------------------------
-                    | 	447 	67  |	514
+                    | 	447 	67   |	514
+
 True positive rate: 22.75
 True negative rate: 91.64
 False positive rate: 8.36
@@ -407,13 +480,17 @@ LR-: 0.84
 Accuracy: 0.84
 F score: 0.32
 Tasso di errore: 0.31
+
+
+
                        	Predetto
                     |  	Low 	Medium |
 -------------------------------------------------
-Reale Non recidivo  | 	318 	58   |	376
-Reale recidivo      | 	129 	65  |	194
+Reale Non recidivo  | 	318 	 58    |  376
+Reale recidivo      | 	129 	 65    |  194
 -------------------------------------------------
-                    | 	447 	123  |	570
+                    | 	447 	123    |  570
+
 True positive rate: 33.51
 True negative rate: 84.57
 False positive rate: 15.43
@@ -428,13 +505,16 @@ LR-: 0.79
 Accuracy: 0.79
 F score: 0.41
 Tasso di errore: 0.33
+
+
                        	Predetto
                     |  	Medium 	High |
 -------------------------------------------------
-Reale Non recidivo  | 	58 	29   |	87
-Reale recidivo      | 	65 	38  |	103
+Reale Non recidivo  | 	58 	29   |	 87
+Reale recidivo      | 	65 	38   |	103
 -------------------------------------------------
-                    | 	123 	67  |	190
+                    |  123 	67   |	190
+
 True positive rate: 36.89
 True negative rate: 66.67
 False positive rate: 33.33
@@ -449,13 +529,16 @@ LR-: 0.95
 Accuracy: 0.95
 F score: 0.45
 Tasso di errore: 0.49
+
+
                        	Predetto
                     |  	1...4 	7...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	148 	18   |	166
-Reale recidivo      | 	48 	16  |	64
+Reale Non recidivo  | 	148 	 18    |  166
+Reale recidivo      | 	48 	 16    |   64
 -------------------------------------------------
-                    | 	196 	34  |	230
+                    | 	196 	 34    |  230
+
 True positive rate: 25.00
 True negative rate: 89.16
 False positive rate: 10.84
@@ -470,13 +553,16 @@ LR-: 0.84
 Accuracy: 0.84
 F score: 0.33
 Tasso di errore: 0.29
+
+
                        	Predetto
                     |  	1...5 	6...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	148 	16   |	164
-Reale recidivo      | 	48 	21  |	69
+Reale Non recidivo  | 	148 	 16    |  164
+Reale recidivo      | 	48 	 21    |   69
 -------------------------------------------------
-                    | 	196 	37  |	233
+                    | 	196 	 37    |  233
+
 True positive rate: 30.43
 True negative rate: 90.24
 False positive rate: 9.76
@@ -491,13 +577,17 @@ LR-: 0.77
 Accuracy: 0.77
 F score: 0.40
 Tasso di errore: 0.27
+
+
+
                        	Predetto
                     |  	1...3 	8...10 |
 -------------------------------------------------
-Reale Non recidivo  | 	148 	13   |	161
-Reale recidivo      | 	48 	13  |	61
+Reale Non recidivo  | 	148 	 13    |  161
+Reale recidivo      | 	48 	 13    |   61
 -------------------------------------------------
-                    | 	196 	26  |	222
+                    | 	196 	 26    |  222
+
 True positive rate: 21.31
 True negative rate: 91.93
 False positive rate: 8.07
@@ -513,9 +603,11 @@ Accuracy: 0.86
 F score: 0.30
 Tasso di errore: 0.27
 
+
+
 Le persone afroamericano hanno il  91.26 % di probabilità di ottenere un punteggio più alto e di non commettere più reati rispetto agli imputati bianchi dopo 2 anni.
 Le persone afroamericano hanno il  108.80 % di probabilità di ottenere un punteggio più alto e di non commettere più reati rispetto agli imputati ispanici dopo 2 anni.
 I punteggi COMPAS classificano erroneamente i recidivi bianchi come a basso rischio con una frequenza del  70.49 % superiore rispetto ai recidivi afroamericani.
 I punteggi COMPAS classificano erroneamente i recidivi ispanici come a basso rischio con una frequenza del  98.64 % superiore rispetto ai recidivi afroamericani.
 
-Process finished with exit code 0
+
