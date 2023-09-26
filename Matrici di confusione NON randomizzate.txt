@@ -1,12 +1,12 @@
 
 Considero tutti, Low(0) - High(1)
                            	Predetto
-                        |  	1    	0    |
+                        |  	1    	  0   |
 -------------------------------------------------
-Reale recidivo (1)      | 	1041 	1331  |	2372
-Reale NON recidivo (0)  | 	914 	4422  |	5336
+Reale recidivo (1)      |    1041 	1331  |	2372
+Reale NON recidivo (0)  |     914 	4422  |	5336
 -------------------------------------------------
-                        | 	1955 	5753  |	7708
+                        |    1955 	5753  |	7708
 
 True positive rate (TPR): 43.89
 True negative rate (TNR): 82.87
@@ -32,12 +32,12 @@ LR- (rapporto di verosimiglianza per un risultato negativo): 0.68
 
 Afroamericani, Low(0) - High(1)
                            	Predetto
-                        |  	1    	0    |
+                        |  	1    	0     |
 -------------------------------------------------
-Reale recidivo (1)      | 	771 	591  |	1362
-Reale NON recidivo (0)  | 	651 	1593  |	2244
+Reale recidivo (1)      |    771 	 591  |	1362
+Reale NON recidivo (0)  |    651 	1593  |	2244
 -------------------------------------------------
-                        | 	1422 	2184  |	3606
+                        |   1422 	2184  |	3606
 
 True positive rate (TPR): 56.61
 True negative rate (TNR): 70.99
@@ -62,12 +62,12 @@ LR- (rapporto di verosimiglianza per un risultato negativo): 0.61
 
 Caucasici, Low(0) - High(1)
                            	Predetto
-                        |  	1    	0    |
+                        |  	1    	 0    |
 -------------------------------------------------
-Reale recidivo (1)      | 	201 	502  |	703
-Reale NON recidivo (0)  | 	197 	1872  |	2069
+Reale recidivo (1)      |    201 	 502  |	 703
+Reale NON recidivo (0)  |    197 	1872  |	2069
 -------------------------------------------------
-                        | 	398 	2374  |	2772
+                        |    398 	2374  |	2772
 
 True positive rate (TPR): 28.59
 True negative rate (TNR): 90.48
@@ -92,12 +92,12 @@ LR- (rapporto di verosimiglianza per un risultato negativo): 0.79
 
 Ispanici, Low(0) - High(1)
                            	Predetto
-                        |  	1    	0    |
+                        |   1        0  |
 -------------------------------------------------
-Reale recidivo (1)      | 	40 	136  |	176
-Reale NON recidivo (0)  | 	52 	548  |	600
+Reale recidivo (1)      |   40 	   136  |  176
+Reale NON recidivo (0)  |   52 	   548  |  600
 -------------------------------------------------
-                        | 	92 	684  |	776
+                        |   92 	   684  |  776
 
 True positive rate (TPR): 22.73
 True negative rate (TNR): 91.33
