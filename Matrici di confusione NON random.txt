@@ -1,0 +1,116 @@
+
+All defendants
+                           	Predetto
+                        |  	1    	0    |
+-------------------------------------------------
+Reale recidivo (1)      | 	2035 	1216  |	3251
+Reale NON recidivo (0)  | 	1282 	2681  |	3963
+-------------------------------------------------
+                        | 	3317 	3897  |	7214
+
+True positive rate (TPR): 62.60
+True negative rate (TNR): 67.65
+False positive rate (FPR): 32.35
+False negative rate (FNR): 37.40
+Accuratezza: 0.65
+Tasso di errore positive class 1: 0.39
+Tasso di errore positive class 2: 0.31
+Tasso di errore: 0.35
+Precisione: 0.61
+Specificità: 0.68
+Sensitività / Recall: 0.63
+F-score: 0.62
+Prevalence: 2035.17
+PPV (Positive Predictive Value)/ Precision: 0.61
+NPV (Negative Predictive Value): 0.69
+LR+ (rapporto di verosimiglianza per un risultato positivo): 1.94
+LR- (rapporto di verosimiglianza per un risultato negativo): 0.55
+
+
+
+Black defendants
+                           	Predetto
+                        |  	1    	0    |
+-------------------------------------------------
+Reale recidivo (1)      | 	1369 	532  |	1901
+Reale NON recidivo (0)  | 	805 	990  |	1795
+-------------------------------------------------
+                        | 	2174 	1522  |	3696
+
+True positive rate (TPR): 72.01
+True negative rate (TNR): 55.15
+False positive rate (FPR): 44.85
+False negative rate (FNR): 27.99
+Accuratezza: 0.64
+Tasso di errore positive class 1: 0.37
+Tasso di errore positive class 2: 0.35
+Tasso di errore: 0.36
+Precisione: 0.63
+Specificità: 0.55
+Sensitività / Recall: 0.72
+F-score: 0.67
+Prevalence: 1369.14
+PPV (Positive Predictive Value)/ Precision: 0.63
+NPV (Negative Predictive Value): 0.65
+LR+ (rapporto di verosimiglianza per un risultato positivo): 1.61
+LR- (rapporto di verosimiglianza per un risultato negativo): 0.51
+
+
+
+White defendants
+                           	Predetto
+                        |  	1    	0    |
+-------------------------------------------------
+Reale recidivo (1)      | 	505 	461  |	966
+Reale NON recidivo (0)  | 	349 	1139  |	1488
+-------------------------------------------------
+                        | 	854 	1600  |	2454
+
+True positive rate (TPR): 52.28
+True negative rate (TNR): 76.55
+False positive rate (FPR): 23.45
+False negative rate (FNR): 47.72
+Accuratezza: 0.67
+Tasso di errore positive class 1: 0.41
+Tasso di errore positive class 2: 0.29
+Tasso di errore: 0.33
+Precisione: 0.59
+Specificità: 0.77
+Sensitività / Recall: 0.52
+F-score: 0.55
+Prevalence: 505.19
+PPV (Positive Predictive Value)/ Precision: 0.59
+NPV (Negative Predictive Value): 0.71
+LR+ (rapporto di verosimiglianza per un risultato positivo): 2.23
+LR- (rapporto di verosimiglianza per un risultato negativo): 0.62
+
+
+
+Hispanic
+                           	Predetto
+                        |  	1    	0    |
+-------------------------------------------------
+Reale recidivo (1)      | 	103 	129  |	232
+Reale NON recidivo (0)  | 	87 	318  |	405
+-------------------------------------------------
+                        | 	190 	447  |	637
+
+True positive rate (TPR): 44.40
+True negative rate (TNR): 78.52
+False positive rate (FPR): 21.48
+False negative rate (FNR): 55.60
+Accuratezza: 0.66
+Tasso di errore positive class 1: 0.46
+Tasso di errore positive class 2: 0.29
+Tasso di errore: 0.34
+Precisione: 0.54
+Specificità: 0.79
+Sensitività / Recall: 0.44
+F-score: 0.49
+Prevalence: 103.20
+PPV (Positive Predictive Value)/ Precision: 0.54
+NPV (Negative Predictive Value): 0.71
+LR+ (rapporto di verosimiglianza per un risultato positivo): 2.07
+LR- (rapporto di verosimiglianza per un risultato negativo): 0.71
+
+Process finished with exit code 0
